@@ -35,7 +35,9 @@ Some excellent starting information from the web.
 
  * A [small intro and excellent sketch to use with arduino][arduino]
  * [Pin schematics for Arduino Mega][pins] to use with this board
+ * More in the [Arduino Forums][forum]
 
 
 [arduino]: http://www.grantgibson.co.uk/blog/2012/04/how-to-get-started-with-the-mifare-mf522-an-and-arduino/ "How to get started with the Mifare MF522-AN and Arduino"
 [pins]: http://www.b2cqshop.com/images/thumbs/0000433.jpg
+[forum]: http://forum.arduino.cc/index.php?topic=111113.0 "MF522-AN RFID Reader"
