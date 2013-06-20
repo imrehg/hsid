@@ -26,6 +26,7 @@ Hardware
 
  * Arduino Mega ADK, better brakeout of SPI pins for starters. Should replace it in the future with a bare ATMega chip
  * RFID-RC522 reader
+ * LCD matrix display
 
 Sources
 -------
