@@ -27,6 +27,15 @@ Hardware
  * Arduino Mega ADK, better brakeout of SPI pins for starters. Should replace it in the future with a bare ATMega chip
  * RFID-RC522 reader
  * LCD matrix display
+ * LEDs and switches for interaction
+
+Software
+--------
+
+ * [ ] Sketch to read and transmit RFID card serial numbers
+ * [ ] Database to store person<->serial<->check in times
+ * [ ] Local web interface adding name to users (as an optional activity)
+ * [ ] Web interface for person counting / presence indication
 
 Sources
 -------
